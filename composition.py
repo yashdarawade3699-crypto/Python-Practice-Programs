@@ -1,6 +1,6 @@
 class school:
     def type(self):
-        print("School")
+        print("Schoool")
 class student:
     def __init__(self,) -> None:
         self.school = school()

@@ -1,4 +1,4 @@
-fruits = ["Apple", "Banana", "Mango", "Orange"]
+fruits = ["Apple", "Banana", "sitaphal", "Orange"]
 
 it = iter(fruits)
 
