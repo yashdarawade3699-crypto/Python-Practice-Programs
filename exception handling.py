@@ -1,5 +1,5 @@
 try:
-    with open ('sample.txt','r') as file:
+    with open ('student.csv', 'r') as file:
         lines=file.readlines()
 
     count=len(lines)
